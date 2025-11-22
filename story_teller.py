@@ -53,7 +53,7 @@ class StoryTeller:
             'hero': ['a young knight', 'a clever detective', 'a brave explorer', 
                      'a wise wizard', 'a skilled archer', 'a curious scientist'],
             'place': ['the Enchanted Forest', 'the Ancient Temple', 'the Mystic Mountains',
-                      'the Crystal Caves', 'the Forgotten City', 'the Dragon\'s Lair'],
+                      'the Crystal Caves', 'the Forgotten City', "the Dragon's Lair"],
             'creature': ['dragon', 'giant spider', 'wise owl', 'mysterious stranger',
                         'ancient guardian', 'magical phoenix'],
             'object': ['golden crown', 'ancient scroll', 'magic sword', 'mysterious amulet',
